@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wny:home|Door43 (wny)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wny|d43-wny repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wny/archive/master.zip|d43-wny.zip]]
+
+**Recent Changes**
+{{changes>ns = wny}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wny|Ethnologue data]]
+
